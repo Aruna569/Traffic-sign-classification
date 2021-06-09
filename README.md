@@ -1,19 +1,19 @@
 # Traffic-sign-classification
   Traffic sign classification in images
 # packages
-  pandas
+ * pandas
   
    * pip install pandas
-  pillow
+ * pillow
   
    * pip install pillow
-  numpy
+ * numpy
   
    * pip install numpy
-  keras
+ * keras
   
    * pip install keras
-  tenserflow
+ * tenserflow
   
    * pip install tensorflow
 # Run Python File
@@ -23,8 +23,8 @@
  
    ![image](https://user-images.githubusercontent.com/85630111/121400611-6bb03a00-c975-11eb-8194-100123dc4790.png)
   
-   ![image](https://user-images.githubusercontent.com/85630111/121401226-1a547a80-c976-11eb-8ceb-e407858a8e30.png)
-
+   ![image](https://user-images.githubusercontent.com/85630111/121401561-74edd680-c976-11eb-855a-a2ac8150282d.png)
+ 
 # Conclusion
   * Sucessfully detects the traffic sign of the image using computer vison-python programming language
 
